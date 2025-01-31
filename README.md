@@ -1,5 +1,5 @@
 ## HNG Mobile App
-A simple mobile app for HNG stage 0 task.
+A simple mobile app for HNG stage 0 task, demonstrating basic GitHub repository setup and mobile development.
 
 ### Installation:
 1. Clone the repository:
@@ -13,6 +13,10 @@ A simple mobile app for HNG stage 0 task.
 3. Run the app:
    ```sh
    flutter run
+
+## Demo
+Test the app directly on Appetize.io:
+👉 [HNG Mobile App on Appetize](https://appetize.io/app/b_ltrzgkvojbrfifbkvbaakyfb74)
 
 ## License
 
